@@ -1,0 +1,31 @@
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\bin\Debug\LIMS Invoice grabber.exe.config
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\bin\Debug\LIMS Invoice grabber.exe
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\bin\Debug\LIMS Invoice grabber.pdb
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\MainWindow.g.cs
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\App.g.cs
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber_MarkupCompile.cache
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber_MarkupCompile.lref
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\MainWindow.baml
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.g.resources
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS_Invoice_grabber.loadInput.resources
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS_Invoice_grabber.Properties.Resources.resources
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.csproj.GenerateResource.cache
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.csproj.CoreCompileInputs.cache
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.exe
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.pdb
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\bin\Debug\LIMS Invoice grabber.exe.manifest
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\bin\Debug\LIMS Invoice grabber.application
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.exe.manifest
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.application
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\serverSelect.g.cs
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\serverSelect.baml
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\revenueReport.g.cs
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\revenueReport.baml
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.csprojAssemblyReference.cache
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\InvoiceItemDetailView.g.cs
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\InvoiceItemDetailView.baml
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber.csproj.ResolveComReference.cache
+C:\Users\terrycheung\source\repos\LIMS Invoice grabber\LIMS Invoice grabber\obj\Debug\LIMS Invoice grabber_Content.g.cs

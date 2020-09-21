@@ -1,0 +1,34 @@
+﻿<Window x:Name="reportPage" x:Class="LIMS_Invoice_grabber.revenueReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LIMS_Invoice_grabber"
+        mc:Ignorable="d"
+        Title="Revenue Report" Height="759.219" Width="889.032" Icon="CAL-logo-main-ST.png">
+    <Grid>
+        <Label Content="Company:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contact:" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top"/>
+        <Label Content="Phone Number:" HorizontalAlignment="Left" Margin="253,39,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="492,38,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="contactNameBox" HorizontalAlignment="Left" Height="23" Margin="69,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" IsReadOnly="True"/>
+        <TextBox x:Name="phoneNumberBox" HorizontalAlignment="Left" Height="23" Margin="348,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139" IsReadOnly="True"/>
+        <TextBox x:Name="emailbox" Height="23" Margin="538,40,15,0" TextWrapping="Wrap" VerticalAlignment="Top" IsReadOnly="True"/>
+        <TextBox x:Name="companyNameBox" HorizontalAlignment="Left" Height="23" Margin="73,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" IsReadOnly="True"/>
+        <Label Content="Total Revenue:" HorizontalAlignment="Left" Margin="340,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="grandTotalBox" HorizontalAlignment="Left" Height="23" Margin="431,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117" IsReadOnly="True"/>
+        <Grid Margin="10,75,17,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="312*"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="535*"/>
+            </Grid.ColumnDefinitions>
+            <DataGrid x:Name="testsGrid" IsReadOnly="True" ClipboardCopyMode="IncludeHeader"/>
+            <GridSplitter HorizontalAlignment="Stretch" Height="635" Grid.Column="1" Width="5"/>
+            <DataGrid x:Name="productsGrid" IsReadOnly="true" ClipboardCopyMode="IncludeHeader" Grid.Column="2"/>
+        </Grid>
+        <Button x:Name="toExel" Content="Send to Exel" Margin="0,13,17,0" VerticalAlignment="Top" Click="toExel_Click" HorizontalAlignment="Right" Width="97"/>
+        <Label Content="Total Previous:" HorizontalAlignment="Left" Margin="553,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="grandTotalPrevBox" HorizontalAlignment="Left" Height="23" Margin="639,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113"/>
+    </Grid>
+</Window>

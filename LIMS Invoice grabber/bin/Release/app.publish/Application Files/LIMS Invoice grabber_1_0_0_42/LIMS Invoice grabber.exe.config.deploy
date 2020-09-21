@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+	<connectionStrings>
+		<add name="caserver\sqldev - LabWare-7-CLT" providerName="System.Data.sqlclient" connectionString="Data Source=caserver.calabs.local\sqldev;Initial Catalog=LabWare-7-CLT"/>
+		<add name="calqa02 - LabWare-7-072419" providerName="System.Data.sqlclient" connectionString="Data Source=calqa02.calabs.local;Initial Catalog=LabWare-7-072419"/>
+		<add name="calqa02 - LabWare-7-CLT" providerName="System.Data.sqlclient" connectionString="Data Source=calqa02.calabs.local;Initial Catalog=LabWare-7-CLT"/>
+		<add name="calqa02 - LabWare-7-SB" providerName="System.Data.sqlclient" connectionString="Data Source=calqa02.calabs.local;Initial Catalog=LabWare-7-SB"/>
+		<add name="calqa02 - LabWare-7-DEV" providerName="System.Data.sqlclient" connectionString="Data Source=calqa02.calabs.local;Initial Catalog=LabWare-7-DEV"/>
+	</connectionStrings>
+</configuration>
